@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MP_final</string>
+    <string name="row">가로 mm</string>
+    <string name="col">세로 mm</string>
+    <string name="height">높이 mm</string>
+    <string name="name">가구명</string>
+    <string name="door">문</string>
+    <string name="window">창문</string>
+    <string name="furniture">가구</string>
+    <string name="preview">PREVIEW</string>
+    <string name="list">가구 목록</string>
+    <string name="set">가구 배치하기</string>
+    <string name="graphic">3D 그래픽 확인하기</string>
+    <string name="add">+추가</string>
+</resources>
